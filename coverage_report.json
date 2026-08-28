@@ -1,0 +1,52 @@
+{
+  "Suelos y Fertilidad": {
+    "questions": 27,
+    "visual_questions": 5,
+    "themes": 4
+  },
+  "Climatología": {
+    "questions": 32,
+    "visual_questions": 5,
+    "themes": 5
+  },
+  "Economía Ambiental": {
+    "questions": 27,
+    "visual_questions": 5,
+    "themes": 4
+  },
+  "Silvicultura del Bosque Nativo": {
+    "questions": 21,
+    "visual_questions": 5,
+    "themes": 3
+  },
+  "Geomática": {
+    "questions": 22,
+    "visual_questions": 5,
+    "themes": 3
+  },
+  "Muestreo y Dinámica de Bosques": {
+    "questions": 26,
+    "visual_questions": 5,
+    "themes": 4
+  },
+  "Conservación y Biodiversidad": {
+    "questions": 32,
+    "visual_questions": 5,
+    "themes": 5
+  },
+  "Suelo e Hidrología Forestal": {
+    "questions": 21,
+    "visual_questions": 5,
+    "themes": 3
+  },
+  "Biodiversidad Vegetal": {
+    "questions": 17,
+    "visual_questions": 5,
+    "themes": 2
+  },
+  "Ecología Forestal": {
+    "questions": 16,
+    "visual_questions": 5,
+    "themes": 2
+  }
+}
