@@ -1,0 +1,74 @@
+{
+  "source_file": "Cuestionario Ex. Licenciatura.pdf",
+  "policy": "Se incorporaron preguntas de opción múltiple completas y suficientemente verificables. Se ignoraron subrayados, \"VERDADERO\", desarrollos, claves recordadas y comentarios de estudiantes. Las claves se determinaron de nuevo usando el material de estudio, cálculo independiente y/o referencias técnicas.",
+  "recovered_questions": 38,
+  "recovered_by_course": {
+    "Geomática": 5,
+    "Silvicultura del Bosque Nativo": 2,
+    "Conservación y Biodiversidad": 4,
+    "Suelos y Fertilidad": 10,
+    "Climatología": 4,
+    "Suelo e Hidrología Forestal": 3,
+    "Economía Ambiental": 2,
+    "Ecología Forestal": 3,
+    "Muestreo y Dinámica de Bosques": 1,
+    "Biodiversidad Vegetal": 4
+  },
+  "replaced_generated_ids": [
+    "AGE206-T2-R4",
+    "AGL110-T3-R2",
+    "AGL110-T3-R3",
+    "AGL110-T4-R5",
+    "AGR205-T3-R1",
+    "AGR208-T1-R1",
+    "AGR208-T1-R4",
+    "AGR209-T1-R1",
+    "AGR339-T1-R3"
+  ],
+  "not_imported_examples": [
+    {
+      "item": "Geomática 1 — definición de IDE",
+      "reason": "Dos alternativas son demasiado próximas semánticamente; no hay unicidad suficientemente sólida."
+    },
+    {
+      "item": "Silvicultura 1 — N/ha",
+      "reason": "Ya existe como pregunta tipo/oficial en el banco; se evita duplicarla."
+    },
+    {
+      "item": "Silvicultura 10 — raleo por lo bajo",
+      "reason": "La redacción hace verdaderas más de una alternativa de forma literal."
+    },
+    {
+      "item": "Silvicultura 13 — APS",
+      "reason": "Ya existe como pregunta tipo/oficial."
+    },
+    {
+      "item": "Suelos y Fertilidad 1 — urea",
+      "reason": "Ya existe como pregunta tipo/oficial."
+    },
+    {
+      "item": "Climatología 6 y 11 — heladas / exposición Molina",
+      "reason": "Ya existen como preguntas tipo/oficiales."
+    },
+    {
+      "item": "Climatología 7 — temperatura por radiación",
+      "reason": "La redacción y la pauta anotada no son consistentes con el balance neto indicado."
+    },
+    {
+      "item": "Climatología 25 — radiosondeo",
+      "reason": "Más de una afirmación puede defenderse a partir del perfil; se excluye por ambigüedad."
+    },
+    {
+      "item": "Climatología 27 — pluviómetros",
+      "reason": "Hay inconsistencia de unidades entre 20 cm y alternativas en mm."
+    },
+    {
+      "item": "Muestreo 10 — MPH",
+      "reason": "La terminología factor de expansión/FAB hace que las alternativas sean internamente contradictorias."
+    },
+    {
+      "item": "Preguntas abiertas o recuerdos sin cuatro alternativas",
+      "reason": "No se transformaron en nuevas preguntas para no confundir recuperación de examen con generación propia."
+    }
+  ]
+}

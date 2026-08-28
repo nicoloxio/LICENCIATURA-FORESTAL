@@ -1,0 +1,82 @@
+{
+  "Biodiversidad Vegetal": {
+    "questions": 20,
+    "official_type": 2,
+    "exam_previous": 4,
+    "investigated": 14,
+    "visual_questions": 8,
+    "themes": 2
+  },
+  "Climatología": {
+    "questions": 36,
+    "official_type": 2,
+    "exam_previous": 4,
+    "investigated": 30,
+    "visual_questions": 7,
+    "themes": 5
+  },
+  "Conservación y Biodiversidad": {
+    "questions": 35,
+    "official_type": 2,
+    "exam_previous": 4,
+    "investigated": 29,
+    "visual_questions": 5,
+    "themes": 5
+  },
+  "Ecología Forestal": {
+    "questions": 19,
+    "official_type": 2,
+    "exam_previous": 3,
+    "investigated": 14,
+    "visual_questions": 6,
+    "themes": 2
+  },
+  "Economía Ambiental": {
+    "questions": 28,
+    "official_type": 2,
+    "exam_previous": 2,
+    "investigated": 24,
+    "visual_questions": 5,
+    "themes": 4
+  },
+  "Geomática": {
+    "questions": 26,
+    "official_type": 2,
+    "exam_previous": 5,
+    "investigated": 19,
+    "visual_questions": 5,
+    "themes": 3
+  },
+  "Muestreo y Dinámica de Bosques": {
+    "questions": 27,
+    "official_type": 2,
+    "exam_previous": 1,
+    "investigated": 24,
+    "visual_questions": 5,
+    "themes": 4
+  },
+  "Silvicultura del Bosque Nativo": {
+    "questions": 23,
+    "official_type": 1,
+    "exam_previous": 2,
+    "investigated": 20,
+    "visual_questions": 6,
+    "themes": 3
+  },
+  "Suelo e Hidrología Forestal": {
+    "questions": 22,
+    "official_type": 1,
+    "exam_previous": 3,
+    "investigated": 18,
+    "visual_questions": 5,
+    "themes": 3
+  },
+  "Suelos y Fertilidad": {
+    "questions": 34,
+    "official_type": 2,
+    "exam_previous": 10,
+    "investigated": 22,
+    "visual_questions": 5,
+    "themes": 4
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "total_questions": 270,
+  "visual_questions": 57,
+  "provenance": {
+    "generated": 166,
+    "official_type": 18,
+    "researched_visual": 48,
+    "recovered_exam": 38
+  },
+  "source_badges": {
+    "Investigada": 214,
+    "Tipo/oficial": 18,
+    "Examen anterior": 38
+  },
+  "recovered_from_questionnaire": 38,
+  "generated_near_duplicates_replaced": 9
+}
